@@ -1,0 +1,36 @@
+# Omni Badge PCB
+
+This project is a custom badge-style PCB redesign based on the Waveshare ESP32-S3 Touch AMOLED 1.8 platform. The design keeps the FPC placement and daughterboard dimensions fixed for alignment while adding onboard flash storage and an LED indicator.
+
+## Overview
+
+The board is built around the ESP32-S3 and integrates display interconnects, external flash, motion sensing, audio support, power regulation, battery monitoring, and removable storage on a compact custom PCB. The layout preserves the original connector alignment constraints while adapting the board into a badge form factor.
+
+## Key Changes
+
+- Added onboard W25Q128JV flash storage.
+- Added WS2812B LED indicator.
+- Kept FPC placement fixed for display and daughterboard alignment.
+- Reworked the PCB layout into a custom badge-shaped form factor.
+
+## Main Components
+
+- ESP32-S3 microcontroller.
+- W25Q128JV serial flash.
+- HT7533-1 voltage regulator.
+- QMI8658A IMU.
+- MAX17048 battery fuel gauge.
+- PAM8302A audio amplifier.
+- Dual MEMS microphones.
+- TF card connector.
+- WS2812B LED.
+- 40 MHz crystal.
+- FPC and header connectors for display and board interconnects.
+
+## Layout Notes
+
+The PCB layout is constrained by the fixed placement of the FPC connectors and the daughterboard size. Component placement is organized around the ESP32-S3 core, with storage, power, sensor, audio, and interface circuitry distributed to fit the compact mechanical outline.
+
+## Design Intent
+
+This board is a functional redesign of the reference platform rather than a direct copy. The goal was to preserve the original display alignment and core system architecture while adding extra storage and a visual status indicator in a custom badge PCB layout.
