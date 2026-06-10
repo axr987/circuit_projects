@@ -1,0 +1,47 @@
+# Schmitt Trigger Oscillator
+
+This project implements a CMOS Schmitt trigger oscillator designed to generate a 20 kHz square wave from a 250 kHz square-wave input. The design uses a Schmitt trigger core, a switched-capacitor feedback network in place of a large resistor, and an inverter chain to drive capacitive loads.
+
+## Overview
+
+The oscillator uses hysteresis in an inverting Schmitt trigger with RC-style feedback to generate a square-wave output. Frequency and duty cycle are set by the trigger thresholds and the effective time constant of the feedback network.
+
+To avoid implementing a very large on-chip resistor in a 65 nm process, the feedback resistance is realized with a switched-capacitor circuit. A parallel pMOS branch was added to the original nMOS pass network to correct rise/fall imbalance and produce a more balanced waveform at the Schmitt trigger input.
+
+## Design
+
+- Schmitt trigger topology with feedback transistors controlling threshold levels.
+- Feedback transistor width ratios set to 1 for pMOS and 0.6 for nMOS.
+- Measured hysteresis thresholds: 660 mV low threshold and 790 mV high threshold.
+- Switched-capacitor feedback network with a 100 fF switch capacitor.
+- Output inverter chain sized to support loads from 10 fF to 10 pF.
+- Initial inverter-chain estimate: 10 stages with a multiplier of 4 for the full load target.
+
+## Specifications
+
+- Input signal: 250 kHz square wave.
+- Target output: 20 kHz square wave.
+- Target duty cycle: 50% ± 1%.
+- Startup time target: less than 10 µs.
+- Rise/fall time target: less than 10 ns.
+- Schmitt trigger low threshold target: 0.6 V ± 0.1 V.
+- Schmitt trigger high threshold target: 0.8 V ± 0.1 V.
+- Output low/high target: below 100 mV and above 1.1 V.
+- DC current draw target at logic low/high input: less than 5 µA.
+
+## Results
+
+- Simulated output frequency: 19.25 kHz.
+- Simulated duty cycle: 49.8%.
+- Startup time: less than 0.2 µs.
+- Rise/fall times: 14 ps and 12 ps.
+- Simulated Schmitt trigger thresholds: 0.67 V low and 0.78 V high.
+- Output levels: 130 nV low and 1.2 V high.
+- DC current draw at input logic levels: less than 732 nA.
+- Peak current draw during DC sweep: 7.48 fA at 370 mV.
+
+## Layout
+
+The physical layout was simplified from the original schematic to reduce implementation complexity. The inverter chain was reduced from 10 stages to 2 in layout, and capacitors were replaced with CRTMOM equivalents close to the schematic values.
+
+DRC completed with only 4 latch-up errors reported, which were treated as negligible for this process. LVS did not pass because of an unresolved connection, port, or net mismatch, so the layout was not fully fabrication-ready in its current state.
