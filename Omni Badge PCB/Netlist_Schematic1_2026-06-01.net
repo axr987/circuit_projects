@@ -1,0 +1,7133 @@
+PROTEL NETLIST 2.0
+[
+DESIGNATOR
+U1
+FOOTPRINT
+QFN-56_L7.0-W7.0-P0.40-TL-EP4.0
+PARTTYPE
+ESP32-S3
+DESCRIPTION
+Frequency Range:2412MHz~2484MHz Frequency Range:2412MHz~2484MHz Interface:ADC,GPIO,I2C,I2S,PWM,SPI,UART,USB Operating Voltage:3V~3.6V Operating Voltage:3V~3.6V Applications:WiFi；IoT Output Power:21dBm Data Rate:150Mbps Current Of Transmitting:340mA Sensit
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+ESP32-S3
+Designator
+U1
+Name
+ESP32-S3
+Device
+ESP32-S3
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge1
+LCSC Part Name
+支持2.4GHz WIFI和低功耗蓝牙的MCU SoC
+Supplier Part
+C2913192
+Manufacturer
+ESPRESSIF(乐鑫)
+Manufacturer Part
+ESP32-S3
+Supplier Footprint
+QFN-56-EP(7x7)
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20241030/3428D9BCA56E860957850BFAF37EAC62.pdf
+Supplier
+LCSC
+3D Model Title
+QFN-56_L7.0-W7.0-P0.40-TL-EP4.0
+Frequency Range
+2412MHz~2484MHz
+Interface
+ADC,GPIO,I2C,I2S,PWM,SPI,UART,USB
+Operating Voltage
+3V~3.6V
+Applications
+WiFi；IoT
+Output Power
+21dBm
+Data Rate
+150Mbps
+Current Of Transmitting
+340mA
+Sensitivity
+-98.4dBm
+Receive Current
+88mA
+Typical Application Frequency
+2.4GHz
+Operating Temperature
+-40℃~+105℃
+Description
+Frequency Range:2412MHz~2484MHz Frequency Range:2412MHz~2484MHz Interface:ADC,GPIO,I2C,I2S,PWM,SPI,UART,USB Operating Voltage:3V~3.6V Operating Voltage:3V~3.6V Applications:WiFi；IoT Output Power:21dBm Data Rate:150Mbps Current Of Transmitting:340mA Sensit
+
+*
+]
+[
+DESIGNATOR
+C1
+FOOTPRINT
+C0201
+PARTTYPE
+CAP_0201
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C1
+Symbol
+CAP
+Value
+1uF
+Name
+1uF
+Device
+CAP_0201
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge2
+Supplier Footprint
+0201
+3D Model Title
+C0201_L0.6-W0.3-H0.3
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C3
+FOOTPRINT
+C0201
+PARTTYPE
+CAP_0201
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C3
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0201
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge3
+Supplier Footprint
+0201
+3D Model Title
+C0201_L0.6-W0.3-H0.3
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C2
+FOOTPRINT
+C0201
+PARTTYPE
+CAP_0201
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C2
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0201
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge4
+Supplier Footprint
+0201
+3D Model Title
+C0201_L0.6-W0.3-H0.3
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C4
+FOOTPRINT
+C0201
+PARTTYPE
+CAP_0201
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C4
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0201
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge5
+Supplier Footprint
+0201
+3D Model Title
+C0201_L0.6-W0.3-H0.3
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R1
+FOOTPRINT
+R0201
+PARTTYPE
+Res_0201
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R1
+Symbol
+Res
+Value
+NC
+Name
+NC
+Device
+Res_0201
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge10
+Supplier Footprint
+0201
+3D Model Title
+R0201_L0.6-W0.3-H0.3
+Description
+
+
+*
+]
+[
+DESIGNATOR
+X1
+FOOTPRINT
+CRYSTAL-SMD_4P-L5.0-W3.2-BL
+PARTTYPE
+XVHEELNANF-40MHZ
+DESCRIPTION
+Type:Surface Mount Crystal Frequency:40MHz Normal temperature Frequency Tolerance:±30ppm Normal temperature Frequency Tolerance:±30ppm Load Capacitance:20pF Frequency Stability:±30ppm Frequency Stability:±30ppm Operating Temperature:-40℃~+85℃ Operating Te
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+XVHEELNANF-40MHZ
+Designator
+X1
+Name
+40MHz
+Device
+XVHEELNANF-40MHZ
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge12
+LCSC Part Name
+40MHz ±30ppm 20pF
+Supplier Part
+C295530
+Manufacturer
+TAITIEN(泰艺电子)
+Manufacturer Part
+XVHEELNANF-40MHZ
+Supplier Footprint
+SMD5032-4P
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20190107/C358646_90134DE2EFE7A44CD2BFE051737F2F9D.pdf
+Supplier
+LCSC
+3D Model Title
+CRYSTAL-SMD_4P-L5.0-W3.2-BL
+Type
+Surface Mount Crystal
+Value
+40MHz
+Normal temperature Frequency Tolerance
+±30ppm
+Load Capacitance
+20pF
+Frequency Stability
+±30ppm
+Operating Temperature
+-40℃~+85℃
+Description
+Type:Surface Mount Crystal Frequency:40MHz Normal temperature Frequency Tolerance:±30ppm Normal temperature Frequency Tolerance:±30ppm Load Capacitance:20pF Frequency Stability:±30ppm Frequency Stability:±30ppm Operating Temperature:-40℃~+85℃ Operating Te
+
+*
+]
+[
+DESIGNATOR
+C5
+FOOTPRINT
+C0201
+PARTTYPE
+CAP_0201
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C5
+Symbol
+CAP
+Value
+15pF
+Name
+15pF
+Device
+CAP_0201
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge13
+Supplier Footprint
+0201
+3D Model Title
+C0201_L0.6-W0.3-H0.3
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C6
+FOOTPRINT
+C0201
+PARTTYPE
+CAP_0201
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C6
+Symbol
+CAP
+Value
+15pF
+Name
+15pF
+Device
+CAP_0201
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge14
+Supplier Footprint
+0201
+3D Model Title
+C0201_L0.6-W0.3-H0.3
+Description
+
+
+*
+]
+[
+DESIGNATOR
+L1
+FOOTPRINT
+L0603
+PARTTYPE
+L_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+L1
+Symbol
+电感
+Value
+24nH
+Name
+24nH
+Device
+L_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge75
+Supplier Footprint
+L0603
+3D Model Title
+L0603_L1.6-W0.8-H0.5_BEAD
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C12
+FOOTPRINT
+C0201
+PARTTYPE
+CAP_0201
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C12
+Symbol
+CAP
+Value
+1uF
+Name
+1uF
+Device
+CAP_0201
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge17
+Supplier Footprint
+0201
+3D Model Title
+C0201_L0.6-W0.3-H0.3
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C13
+FOOTPRINT
+C0201
+PARTTYPE
+CAP_0201
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C13
+Symbol
+CAP
+Value
+1uF
+Name
+1uF
+Device
+CAP_0201
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge18
+Supplier Footprint
+0201
+3D Model Title
+C0201_L0.6-W0.3-H0.3
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C14
+FOOTPRINT
+C0201
+PARTTYPE
+CAP_0201
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C14
+Symbol
+CAP
+Value
+1uF
+Name
+1uF
+Device
+CAP_0201
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge19
+Supplier Footprint
+0201
+3D Model Title
+C0201_L0.6-W0.3-H0.3
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C15
+FOOTPRINT
+C0201
+PARTTYPE
+CAP_0201
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C15
+Symbol
+CAP
+Value
+10uF
+Name
+10uF
+Device
+CAP_0201
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge20
+Supplier Footprint
+0201
+3D Model Title
+C0201_L0.6-W0.3-H0.3
+Description
+
+
+*
+]
+[
+DESIGNATOR
+L2
+FOOTPRINT
+L0402
+PARTTYPE
+L_0402
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+L2
+Symbol
+电感
+Value
+2nH
+Name
+2nH
+Device
+L_0402
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge21
+Supplier Footprint
+L0402
+3D Model Title
+L0402_L1.0-W0.5-H0.5_BEAD
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C16
+FOOTPRINT
+C0201
+PARTTYPE
+CAP_0201
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C16
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0201
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge22
+Supplier Footprint
+0201
+3D Model Title
+C0201_L0.6-W0.3-H0.3
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+U2
+FOOTPRINT
+SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL
+PARTTYPE
+W25Q128JVSIQ
+DESCRIPTION
+Interface Type:SPI Memory Size:128Mbit Clock Frequency (fc):133MHz Supply Voltage:2.7V~3.6V Supply Voltage:2.7V~3.6V Page Programming Time (Tpp):700us Block Erase Time (tBE):120ms@(32KB) Data Retention - TDR (Year):20 years Operating Temperature:-40℃~+85℃
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+W25Q128JVSIQTR
+Designator
+U2
+Name
+W25Q128JVSIQ
+Device
+W25Q128JVSIQ
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge7
+LCSC Part Name
+W25Q128JVSIQ 编带
+Supplier Part
+C97521
+Manufacturer
+WINBOND(华邦)
+Manufacturer Part
+W25Q128JVSIQ
+Supplier Footprint
+SOIC-8-208mil
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20170316/1489627409956.pdf
+Supplier
+LCSC
+3D Model Title
+SOIC-8_L5.3-W5.3-H1.9-LS7.9-P1.27
+Interface Type
+SPI
+Memory Size
+128Mbit
+Clock Frequency (fc)
+133MHz
+Supply Voltage
+2.7V~3.6V
+Page Programming Time (Tpp)
+700us
+Block Erase Time (tBE)
+120ms@(32KB)
+Data Retention - TDR (Year)
+20 years
+Operating Temperature
+-40℃~+85℃
+Description
+Interface Type:SPI Memory Size:128Mbit Clock Frequency (fc):133MHz Supply Voltage:2.7V~3.6V Supply Voltage:2.7V~3.6V Page Programming Time (Tpp):700us Block Erase Time (tBE):120ms@(32KB) Data Retention - TDR (Year):20 years Operating Temperature:-40℃~+85℃
+
+*
+]
+[
+DESIGNATOR
+C7
+FOOTPRINT
+C0201
+PARTTYPE
+CAP_0201
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C7
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0201
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge8
+Supplier Footprint
+0201
+3D Model Title
+C0201_L0.6-W0.3-H0.3
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C8
+FOOTPRINT
+C0201
+PARTTYPE
+CAP_0201
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C8
+Symbol
+CAP
+Value
+NC
+Name
+NC
+Device
+CAP_0201
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge9
+Supplier Footprint
+0201
+3D Model Title
+C0201_L0.6-W0.3-H0.3
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R2
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R2
+Symbol
+Res
+Name
+10K
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge76
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Value
+10K
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R3
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R3
+Symbol
+Res
+Name
+10K
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge77
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Value
+10K
+Description
+
+
+*
+]
+[
+DESIGNATOR
+Key1
+FOOTPRINT
+KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7
+PARTTYPE
+TS3425PA-B
+DESCRIPTION
+Operating Force:250gf Length:4mm Width:3mm Switch Height:2.5mm Actuator/Cap Color:White
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+TS3425PA-B
+Designator
+Key1
+Name
+TS3425PA-B
+Device
+TS3425PA-B
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge63
+LCSC Part Name
+包脚 电子烟开关全白 编带包装 3*4*2.5mm 包脚 电子烟开关全白 弹力250gf 编带包装
+Supplier Part
+C19779067
+Manufacturer
+康深
+Manufacturer Part
+TS3425PA-B
+Supplier Footprint
+SMD-4P,6x6mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20231226/B2B43354CBC6644FB47DF521490D8CD8.pdf
+Supplier
+LCSC
+3D Model Title
+KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7
+Operating Force
+250gf
+Length
+4mm
+Width
+3mm
+Switch Height
+2.5mm
+Actuator/Cap Color
+White
+Description
+Operating Force:250gf Length:4mm Width:3mm Switch Height:2.5mm Actuator/Cap Color:White
+
+*
+]
+[
+DESIGNATOR
+C9
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C9
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge74
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R4
+FOOTPRINT
+R0201
+PARTTYPE
+Res_0201
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R4
+Symbol
+Res
+Name
+10K
+Device
+Res_0201
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge71
+Supplier Footprint
+0201
+Value
+10K
+3D Model Title
+R0201_L0.6-W0.3-H0.3
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R5
+FOOTPRINT
+R0201
+PARTTYPE
+Res_0201
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R5
+Symbol
+Res
+Name
+10K
+Device
+Res_0201
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge72
+Supplier Footprint
+0201
+Value
+10K
+3D Model Title
+R0201_L0.6-W0.3-H0.3
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C42
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C42
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge73
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R6
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R6
+Symbol
+Res
+Value
+510
+Name
+510
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge78
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R7
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R7
+Symbol
+Res
+Value
+1k
+Name
+1k
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge79
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R8
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R8
+Symbol
+Res
+Name
+10K
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge80
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Value
+10K
+Description
+
+
+*
+]
+[
+DESIGNATOR
+Key3
+FOOTPRINT
+KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7
+PARTTYPE
+TS3425PA-B
+DESCRIPTION
+Operating Force:250gf Length:4mm Width:3mm Switch Height:2.5mm Actuator/Cap Color:White
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+TS3425PA-B
+Designator
+Key3
+Name
+TS3425PA-B
+Device
+TS3425PA-B
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge63_1
+LCSC Part Name
+包脚 电子烟开关全白 编带包装 3*4*2.5mm 包脚 电子烟开关全白 弹力250gf 编带包装
+Supplier Part
+C19779067
+Manufacturer
+康深
+Manufacturer Part
+TS3425PA-B
+Supplier Footprint
+SMD-4P,6x6mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20231226/B2B43354CBC6644FB47DF521490D8CD8.pdf
+Supplier
+LCSC
+3D Model Title
+KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7
+Operating Force
+250gf
+Length
+4mm
+Width
+3mm
+Switch Height
+2.5mm
+Actuator/Cap Color
+White
+Description
+Operating Force:250gf Length:4mm Width:3mm Switch Height:2.5mm Actuator/Cap Color:White
+
+*
+]
+[
+DESIGNATOR
+Q1
+FOOTPRINT
+SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR
+PARTTYPE
+BSS138LT1G
+DESCRIPTION
+Type:1 N-Channel Drain Source Voltage (Vdss): Continuous Drain Current (Id): Drain Source On Resistance (RDS(on)@Vgs,Id):5.6Ω@2.75V Power Dissipation (Pd): Gate Threshold Voltage (Vgs(th)@Id):0.5V@1.0mA Input Capacitance (Ciss@Vds):50pF@25V Reverse Transf
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+BSS138LT1G
+Designator
+Q1
+Name
+BSS138LT1G
+Device
+BSS138LT1G
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge81
+LCSC Part Name
+1个N沟道 耐压:50V 电流:200mA Single N-Channel Logic Level Power MOSFET 50V, 200mA, 3.5Ω
+Supplier Part
+C82045
+Manufacturer
+onsemi(安森美)
+Manufacturer Part
+BSS138LT1G
+Supplier Footprint
+SOT-23
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20160910/1473490306631.PDF
+Supplier
+LCSC
+3D Model Title
+SOT-23-3L_L2.9-W1.6-H1.1-LS2.8-P0.95
+Type
+1 N-Channel
+Drain Source Voltage (Vdss)
+
+Continuous Drain Current (Id)
+
+Drain Source On Resistance (RDS(on)@Vgs,Id)
+5.6Ω@2.75V
+Power Dissipation (Pd)
+
+Gate Threshold Voltage (Vgs(th)@Id)
+0.5V@1.0mA
+Input Capacitance (Ciss@Vds)
+50pF@25V
+Reverse Transfer Capacitance (Crss@Vds)
+5pF@25V
+Operating Temperature
+-55℃~+150℃
+Description
+Type:1 N-Channel Drain Source Voltage (Vdss): Continuous Drain Current (Id): Drain Source On Resistance (RDS(on)@Vgs,Id):5.6Ω@2.75V Power Dissipation (Pd): Gate Threshold Voltage (Vgs(th)@Id):0.5V@1.0mA Input Capacitance (Ciss@Vds):50pF@25V Reverse Transf
+
+*
+]
+[
+DESIGNATOR
+U3
+FOOTPRINT
+SSOP-16_L4.9-W3.9-P0.64-LS6.0-BL-1
+PARTTYPE
+TCA9554PWR
+DESCRIPTION
+Interface:I2C；SMBus Number of I/O:8 Interrupt Output:With Interrupt Output Output Type: Supply Voltage:1.65V~5.5V Supply Voltage:1.65V~5.5V Output Source current:- Output Sink Current:- Clock Frequency:400kHz Operating Temperature:-40℃~+85℃ Operating Temp
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+TCA9554PWR
+Designator
+U3
+Name
+TCA9554PWR
+Device
+TCA9554PWR
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge82
+LCSC Part Name
+TCA9554 低电压8位I²C和SMBus低功耗I/O扩展器，带中断输出和配置寄存器
+Supplier Part
+C477924
+Manufacturer
+TI(德州仪器)
+Manufacturer Part
+TCA9554PWR
+Supplier Footprint
+TSSOP-16
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://www.ti.com/cn/lit/gpn/tca9554
+Supplier
+LCSC
+3D Model Title
+SSOP-16_L4.9-W3.9-H1.75-LS6.0_P0.64
+Interface
+I2C；SMBus
+Number of I/O
+8
+Interrupt Output
+With Interrupt Output
+Output Type
+
+Supply Voltage
+1.65V~5.5V
+Output Source current
+-
+Output Sink Current
+-
+Clock Frequency
+400kHz
+Operating Temperature
+-40℃~+85℃
+Description
+Interface:I2C；SMBus Number of I/O:8 Interrupt Output:With Interrupt Output Output Type: Supply Voltage:1.65V~5.5V Supply Voltage:1.65V~5.5V Output Source current:- Output Sink Current:- Clock Frequency:400kHz Operating Temperature:-40℃~+85℃ Operating Temp
+
+*
+]
+[
+DESIGNATOR
+R9
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R9
+Symbol
+Res
+Name
+10K
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge83
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Value
+10K
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R10
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R10
+Symbol
+Res
+Name
+10K
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge84
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Value
+10K
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R11
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R11
+Symbol
+Res
+Name
+10K
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge85
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Value
+10K
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C10
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C10
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge86
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+U4
+FOOTPRINT
+DFN-10_L2.6-W2.6-P0.50-BL-EP
+PARTTYPE
+PCF85063ATL/1,118
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+PCF85063ATL/1,118
+Designator
+U4
+Supplier
+LCSC
+Supplier Part
+C404360
+Manufacturer
+NXP(恩智浦)
+Manufacturer Part
+PCF85063ATL/1,118
+JLCPCB Part Class
+Extended Part
+Name
+PCF85063ATL/1,118
+Device
+PCF85063ATL/1,118
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge87
+LCSC Part Name
+PCF85063ATL/1,118
+Supplier Footprint
+DFN-10-EP(2.6x2.6)
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20191031/C443667_0FA6DE726342069728A003FE68C53754.pdf
+3D Model Title
+DFN-10_L2.6-W2.6-H0.5-P0.50
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C11
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C11
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge88
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C17
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C17
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge89
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+CN1
+FOOTPRINT
+CONN-SMD_34P-P0.40_AXE534127
+PARTTYPE
+AXE534124
+DESCRIPTION
+Number of Pins:- Pitch:0.4mm Mounting Type:Standing paste Number of Rows:2 Contact Plating:Gold
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+AXE534124
+Designator
+CN1
+Name
+AXE534124
+Device
+AXE534124
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge90
+LCSC Part Name
+间距:0.4mm 母 立贴
+Supplier Part
+C3640675
+Manufacturer
+PANASONIC(松下)
+Manufacturer Part
+AXE534124
+Supplier Footprint
+SMD,P=0.4mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+CONN-SMD_34P-P0.40_AXE534127
+Number of Pins
+-
+Pitch
+0.4mm
+Mounting Type
+Standing paste
+Number of Rows
+2
+Contact Plating
+Gold
+Description
+Number of Pins:- Pitch:0.4mm Mounting Type:Standing paste Number of Rows:2 Contact Plating:Gold
+
+*
+]
+[
+DESIGNATOR
+R12
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R12
+Symbol
+Res
+Name
+10K
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge91
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Value
+10K
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R13
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R13
+Symbol
+Res
+Name
+10K
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge92
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Value
+10K
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R14
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R14
+Symbol
+Res
+Name
+10K
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge93
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Value
+10K
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C43
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C43
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge94
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C44
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C44
+Symbol
+CAP
+Value
+10nF
+Name
+10nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge95
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C45
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C45
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge96
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C46
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C46
+Symbol
+CAP
+Value
+10nF
+Name
+10nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge97
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+TF1
+FOOTPRINT
+TF-SMD_M6014-12
+PARTTYPE
+M6014-12
+DESCRIPTION
+Card Connection Mode:- Card Type:MicroSD卡(TF卡) Connector Type:Deck Maximum Body Height:1.85mm Contact Material:- Contact Plating:- Operating Temperature Range:-40℃~+85℃ Operating Temperature Range:-40℃~+85℃ Soldering Temperature(Max):370℃@3S Additional Ca
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+M6014-12
+Designator
+TF1
+Name
+M6014-12
+Device
+M6014-12
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge169
+LCSC Part Name
+MicroSD卡(TF卡) 卡座
+Supplier Part
+C20616645
+Manufacturer
+MUP(德海威)
+Manufacturer Part
+M6014-12
+Supplier Footprint
+SMD
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20240126/D7FE17E0BAFD1A243A2D1FFED735E41D.pdf
+Supplier
+LCSC
+3D Model Title
+TF-SMD_M6014-12
+Card Connection Mode
+-
+Card Type
+MicroSD卡(TF卡)
+Connector Type
+Deck
+Maximum Body Height
+1.85mm
+Contact Material
+-
+Contact Plating
+-
+Operating Temperature Range
+-40℃~+85℃
+Soldering Temperature(Max)
+370℃@3S
+Additional Card Detection Pins
+-
+Supplementary Features
+带定位柱
+Description
+Card Connection Mode:- Card Type:MicroSD卡(TF卡) Connector Type:Deck Maximum Body Height:1.85mm Contact Material:- Contact Plating:- Operating Temperature Range:-40℃~+85℃ Operating Temperature Range:-40℃~+85℃ Soldering Temperature(Max):370℃@3S Additional Ca
+
+*
+]
+[
+DESIGNATOR
+L9
+FOOTPRINT
+ANT-SMD_3P-L3.2-W1.6_ACAG0301
+PARTTYPE
+ACAG0301-24505500-T
+DESCRIPTION
+Antenna Type:Chip Antenna Frequency(Center/Band):2.4GHz；5.5GHz Peak Gain:2.23dBi；4.05dBi Peak Gain:2.23dBi；4.05dBi
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+ACAG0301-24505500-T
+Designator
+L9
+Name
+ACAG0301-24505500-T
+Device
+ACAG0301-24505500-T
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge91_1
+LCSC Part Name
+ACAG0301-24505500-T
+Supplier Part
+C3284270
+Manufacturer
+ABRACON
+Manufacturer Part
+ACAG0301-24505500-T
+Supplier Footprint
+-
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20240403/1701E25DBAFCEAD3057688C7B68CF480.pdf
+Supplier
+LCSC
+Antenna Type
+Chip Antenna
+Frequency(Center/Band)
+2.4GHz；5.5GHz
+Peak Gain
+2.23dBi；4.05dBi
+3D Model Title
+ANT-SMD_3P-L3.2-W1.6_ACAG0301
+Description
+Antenna Type:Chip Antenna Frequency(Center/Band):2.4GHz；5.5GHz Peak Gain:2.23dBi；4.05dBi Peak Gain:2.23dBi；4.05dBi
+
+*
+]
+[
+DESIGNATOR
+C104
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C104
+Symbol
+CAP
+Value
+.8p
+Name
+.8p
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge99_1
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+U5
+FOOTPRINT
+LGA-14_L3.0-W2.5-P0.50-TL
+PARTTYPE
+QMI8658A_C3021082
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+QMI8658A_C3021082
+Designator
+U5
+Name
+QMI8658A
+Device
+QMI8658A_C3021082
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge98
+LCSC Part Name
+六轴陀螺仪
+Supplier Part
+C3021082
+Manufacturer
+QST(上海矽睿)
+Manufacturer Part
+QMI8658A
+Supplier Footprint
+LGA-14
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20230804/748E61E1BAEF8C31413DC641004C80DF.pdf
+Supplier
+LCSC
+3D Model Title
+LGA-14_L2.5-W3.0-H0.9-P0.50
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C47
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C47
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge99
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+U6
+FOOTPRINT
+WQFN-20_L3.0-W3.0-P0.40-BL-EP1.7
+PARTTYPE
+ES8311
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+ES8311
+Designator
+U6
+Name
+ES8311
+Device
+ES8311
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge100
+LCSC Part Name
+ES8311
+Supplier Part
+C962342
+Manufacturer
+Everest-semi(顺芯)
+Manufacturer Part
+ES8311
+Supplier Footprint
+WQFN-20-EP(3x3)
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20210630/C962342_E665EAE7274179BC7C5A390EC8AC685C.pdf
+Supplier
+LCSC
+3D Model Title
+WQFN-20_L3.0-W3.0-H0.8-P0.40-TL-EP1.7
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C48
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C48
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge101
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C49
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C49
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge102
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C50
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C50
+Symbol
+CAP
+Value
+22pF
+Name
+22pF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge103
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C51
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C51
+Symbol
+CAP
+Value
+22pF
+Name
+22pF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge104
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R15
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R15
+Symbol
+Res
+Value
+2.2k
+Name
+2.2k
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge105
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R16
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R16
+Symbol
+Res
+Value
+2.2k
+Name
+2.2k
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge106
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R17
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R17
+Symbol
+Res
+Name
+10K
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge107
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Value
+10K
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R18
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R18
+Symbol
+Res
+Value
+0
+Name
+0
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge108
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C52
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C52
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge109
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C53
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C53
+Symbol
+CAP
+Value
+22pF
+Name
+22pF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge110
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C54
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C54
+Symbol
+CAP
+Value
+22pF
+Name
+22pF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge111
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C55
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C55
+Symbol
+CAP
+Value
+22pF
+Name
+22pF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge112
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C56
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C56
+Symbol
+CAP
+Value
+1uF
+Name
+1uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge113
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R19
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R19
+Symbol
+Res
+Value
+0
+Name
+0
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge114
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C57
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C57
+Symbol
+CAP
+Value
+22pF
+Name
+22pF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge115
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C58
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C58
+Symbol
+CAP
+Value
+1uF
+Name
+1uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge116
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C59
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C59
+Symbol
+CAP
+Value
+22pF
+Name
+22pF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge117
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C60
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C60
+Symbol
+CAP
+Value
+1uF
+Name
+1uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge118
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C61
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C61
+Symbol
+CAP
+Value
+1uF
+Name
+1uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge119
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C62
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C62
+Symbol
+CAP
+Value
+1uF
+Name
+1uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge120
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C63
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C63
+Symbol
+CAP
+Value
+1uF
+Name
+1uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge121
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C64
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C64
+Symbol
+CAP
+Value
+1uF
+Name
+1uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge122
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C65
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C65
+Symbol
+CAP
+Value
+1uF
+Name
+1uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge123
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R20
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R20
+Symbol
+Res
+Value
+0
+Name
+0
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge124
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C66
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C66
+Symbol
+CAP
+Value
+22pF
+Name
+22pF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge125
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C67
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C67
+Symbol
+CAP
+Value
+22pF
+Name
+22pF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge126
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C68
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C68
+Symbol
+CAP
+Value
+0.1uF
+Name
+0.1uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge127
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C69
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C69
+Symbol
+CAP
+Value
+0.1uF
+Name
+0.1uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge128
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R21
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R21
+Symbol
+Res
+Value
+150k
+Name
+150k
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge129
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R22
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R22
+Symbol
+Res
+Value
+150K
+Name
+150K
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge130
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C70
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C70
+Symbol
+CAP
+Value
+330pF
+Name
+330pF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge131
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C71
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C71
+Symbol
+CAP
+Value
+330pF
+Name
+330pF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge132
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C72
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C72
+Symbol
+CAP
+Value
+330pF
+Name
+330pF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge133
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+L3
+FOOTPRINT
+L0603
+PARTTYPE
+L_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+L3
+Symbol
+电感
+Value
+0R
+Name
+0R
+Device
+L_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge134
+Supplier Footprint
+L0603
+3D Model Title
+L0603_L1.6-W0.8-H0.5_BEAD
+Description
+
+
+*
+]
+[
+DESIGNATOR
+L4
+FOOTPRINT
+L0603
+PARTTYPE
+L_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+L4
+Symbol
+电感
+Value
+0R
+Name
+0R
+Device
+L_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge135
+Supplier Footprint
+L0603
+3D Model Title
+L0603_L1.6-W0.8-H0.5_BEAD
+Description
+
+
+*
+]
+[
+DESIGNATOR
+U7
+FOOTPRINT
+MSOP-8_L3.0-W3.0-P0.65-LS5.0-BL
+PARTTYPE
+NS4150B_C189961
+DESCRIPTION
+Type of Power Amplifier:Class D Amplifier Output Power: Supply Voltage:3V~5.25V Supply Voltage:3V~5.25V
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+NS4150
+Designator
+U7
+Name
+NS4150B
+Device
+NS4150B_C189961
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge136
+LCSC Part Name
+NS4150B
+Supplier Part
+C189961
+Manufacturer
+Nsiway(纳芯威)
+Manufacturer Part
+NS4150B
+Supplier Footprint
+MSOP-8
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20220916/DAE631F3909B9CBB38BDE76E3E6D5896.pdf
+Supplier
+LCSC
+3D Model Title
+MSOP-8_L3.0-W3.0-P0.65-LS5.0-BL
+Type of Power Amplifier
+Class D Amplifier
+Output Power
+
+Supply Voltage
+3V~5.25V
+Description
+Type of Power Amplifier:Class D Amplifier Output Power: Supply Voltage:3V~5.25V Supply Voltage:3V~5.25V
+
+*
+]
+[
+DESIGNATOR
+R23
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R23
+Symbol
+Res
+Value
+0
+Name
+0
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge137
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R24
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R24
+Symbol
+Res
+Name
+10K
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge138
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Value
+10K
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C73
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C73
+Symbol
+CAP
+Value
+1uF
+Name
+1uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge139
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C74
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C74
+Symbol
+CAP
+Value
+10uF
+Name
+10uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge140
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C75
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C75
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge141
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C76
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C76
+Symbol
+CAP
+Value
+1uF
+Name
+1uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge142
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+U11
+FOOTPRINT
+MIC-SMD_5P-L3.5-W2.7-P1.67
+PARTTYPE
+LMD3526B261-OFA03
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+LMD3526B261-OFA03
+Designator
+U11
+Name
+LMD3526B261-OFA03
+Device
+LMD3526B261-OFA03
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge59
+LCSC Part Name
+MEMSmic数字硅麦3526 下进音 s-26db±1 snr65db
+Supplier Part
+C41347997
+Manufacturer
+LinkMems(聆麦声学)
+Manufacturer Part
+LMD3526B261-OFA03
+Supplier Footprint
+SMD-5P,3.5x2.7mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20240812/81C7E69BC215A76B37A1D0E560FFDF0D.pdf
+Supplier
+LCSC
+Description
+
+
+*
+]
+[
+DESIGNATOR
+U12
+FOOTPRINT
+MIC-SMD_5P-L3.5-W2.7-P1.67
+PARTTYPE
+LMD3526B261-OFA03
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+LMD3526B261-OFA03
+Designator
+U12
+Name
+LMD3526B261-OFA03
+Device
+LMD3526B261-OFA03
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge59_1
+LCSC Part Name
+MEMSmic数字硅麦3526 下进音 s-26db±1 snr65db
+Supplier Part
+C41347997
+Manufacturer
+LinkMems(聆麦声学)
+Manufacturer Part
+LMD3526B261-OFA03
+Supplier Footprint
+SMD-5P,3.5x2.7mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20240812/81C7E69BC215A76B37A1D0E560FFDF0D.pdf
+Supplier
+LCSC
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C77
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C77
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge143
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C78
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C78
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge144
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C79
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C79
+Symbol
+CAP
+Value
+10uF
+Name
+10uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge145
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C80
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C80
+Symbol
+CAP
+Value
+10uF
+Name
+10uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge146
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C81
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C81
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge147
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C82
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C82
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge148
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C83
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C83
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge149
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C84
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C84
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge150
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C85
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C85
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge151
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C86
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C86
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge152
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+L5
+FOOTPRINT
+L0603
+PARTTYPE
+L_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+L5
+Symbol
+电感
+Name
+10uH
+Device
+L_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge153
+Supplier Footprint
+L0603
+3D Model Title
+L0603_L1.6-W0.8-H0.5_BEAD
+Value
+10uH
+Description
+
+
+*
+]
+[
+DESIGNATOR
+L6
+FOOTPRINT
+L0603
+PARTTYPE
+L_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+L6
+Symbol
+电感
+Name
+10uH
+Device
+L_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge154
+Supplier Footprint
+L0603
+3D Model Title
+L0603_L1.6-W0.8-H0.5_BEAD
+Value
+10uH
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C87
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C87
+Symbol
+CAP
+Value
+30pF
+Name
+30pF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge155
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C88
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C88
+Symbol
+CAP
+Value
+10pF
+Name
+10pF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge156
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C89
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C89
+Symbol
+CAP
+Value
+30pF
+Name
+30pF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge157
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C90
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C90
+Symbol
+CAP
+Value
+10pF
+Name
+10pF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge158
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+U13
+FOOTPRINT
+QFN-40_L5.0-W5.0-P0.40-TL-EP3.4
+PARTTYPE
+AXP2101
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+AXP2101
+Designator
+U13
+Name
+AXP2101
+Device
+AXP2101
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge159
+LCSC Part Name
+AXP2101
+Supplier Part
+C3036461
+Manufacturer
+x-powers
+Manufacturer Part
+AXP2101
+Supplier Footprint
+QFN-40-EP(5x5)
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20230506/27D868F447993329A9E953603DF31964.pdf
+Supplier
+LCSC
+3D Model Title
+QFN-40_L5.0-W5.0-H0.9-P0.4-TL-EP
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C91
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C91
+Symbol
+CAP
+Value
+2.2uF
+Name
+2.2uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge160
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C92
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C92
+Symbol
+CAP
+Value
+2.2uF
+Name
+2.2uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge161
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R25
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R25
+Symbol
+Res
+Name
+10K
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge162
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Value
+10K
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C93
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C93
+Symbol
+CAP
+Value
+0.1nF
+Name
+0.1nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge163
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C94
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C94
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge164
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C95
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C95
+Symbol
+CAP
+Value
+10uF
+Name
+10uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge165
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C96
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C96
+Symbol
+CAP
+Value
+10uF
+Name
+10uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge166
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C97
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C97
+Symbol
+CAP
+Value
+2.2uF
+Name
+2.2uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge167
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+L7
+FOOTPRINT
+L0603
+PARTTYPE
+L_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+L7
+Symbol
+电感
+Value
+.1uH
+Name
+.1uH
+Device
+L_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge168
+Supplier Footprint
+L0603
+3D Model Title
+L0603_L1.6-W0.8-H0.5_BEAD
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C98
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C98
+Symbol
+CAP
+Name
+100nF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge170
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C99
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C99
+Symbol
+CAP
+Value
+NC
+Name
+NC
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge171
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C100
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C100
+Symbol
+CAP
+Value
+22uF
+Name
+22uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge172
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R26
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R26
+Symbol
+Res
+Value
+NC
+Name
+NC
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge173
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R27
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R27
+Symbol
+Res
+Value
+.01
+Name
+.01
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge174
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R28
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R28
+Symbol
+Res
+Value
+NC
+Name
+NC
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge175
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R29
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R29
+Symbol
+Res
+Name
+10K
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge176
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Value
+10K
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C102
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C102
+Symbol
+CAP
+Value
+2.2uF
+Name
+2.2uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+L8
+FOOTPRINT
+L0603
+PARTTYPE
+L_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+L8
+Symbol
+电感
+Value
+1uH
+Name
+1uH
+Device
+L_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge178
+Supplier Footprint
+L0603
+3D Model Title
+L0603_L1.6-W0.8-H0.5_BEAD
+Description
+
+
+*
+]
+[
+DESIGNATOR
+C103
+FOOTPRINT
+C0603
+PARTTYPE
+CAP_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+C103
+Symbol
+CAP
+Value
+22uF
+Name
+22uF
+Device
+CAP_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge179
+Supplier Footprint
+0603
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Description
+
+
+*
+]
+[
+DESIGNATOR
+D1
+FOOTPRINT
+DFN1610-2L_L1.6-W1.0-P1.10-RD
+PARTTYPE
+LTVS16H5.0ET5G
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+LTVS16H5.0ET5G
+Designator
+D1
+Name
+LTVS16H5.0ET5G
+Device
+LTVS16H5.0ET5G
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge180
+LCSC Part Name
+LTVS16H5.0ET5G
+Supplier Part
+C383280
+Manufacturer
+LRC(乐山无线电)
+Manufacturer Part
+LTVS16H5.0ET5G
+Supplier Footprint
+DFN1610
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20200318/C383280_368EDCA96D193E1B08CAFBC68073AFD8.pdf
+Supplier
+LCSC
+3D Model Title
+DFN1610-2L_L1.6-W1.0-H0.5-P1.10-RD
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R30
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R30
+Symbol
+Res
+Name
+10K
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge181
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Value
+10K
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R31
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R31
+Symbol
+Res
+Name
+10K
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge182
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Value
+10K
+Description
+
+
+*
+]
+[
+DESIGNATOR
+USB1
+FOOTPRINT
+USB-C_SMD-TYPE-C-31-M-12
+PARTTYPE
+USB-TYPE-C-018
+DESCRIPTION
+Connector Type:Type-C Standard:- Gender:Female Mounting Style:Horizontal attachment Number of Contacts:16P Number of Ports:1 Current Rating - Power (Max):3A Operating Temperature Range:-25℃~+85℃ Operating Temperature Range:-25℃~+85℃
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+USB-TYPE-C-018
+Designator
+USB1
+Name
+USB-TYPE-C-018
+Device
+USB-TYPE-C-018
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge183
+LCSC Part Name
+Type-C 母 卧贴
+Supplier Part
+C2927038
+Manufacturer
+DEALON(德艺隆)
+Manufacturer Part
+USB-TYPE-C-018
+Supplier Footprint
+SMD
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20211217/CCD3D517E355E8E0CC52ABD8D5784AD8.pdf
+Supplier
+LCSC
+3D Model Title
+USB-C_SMD-TYPE-C-31-M-12
+Connector Type
+Type-C
+Standard
+-
+Gender
+Female
+Mounting Style
+Horizontal attachment
+Number of Contacts
+16P
+Number of Ports
+1
+Current Rating - Power (Max)
+3A
+Operating Temperature Range
+-25℃~+85℃
+Description
+Connector Type:Type-C Standard:- Gender:Female Mounting Style:Horizontal attachment Number of Contacts:16P Number of Ports:1 Current Rating - Power (Max):3A Operating Temperature Range:-25℃~+85℃ Operating Temperature Range:-25℃~+85℃
+
+*
+]
+[
+DESIGNATOR
+R32
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R32
+Symbol
+Res
+Value
+22k
+Name
+22k
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge184
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R33
+FOOTPRINT
+R0603
+PARTTYPE
+Res_0603
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R33
+Symbol
+Res
+Value
+22k
+Name
+22k
+Device
+Res_0603
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge185
+Supplier Footprint
+0603
+3D Model Title
+R0603
+Description
+
+
+*
+]
+(
+LNAIN 
+U1-1 ESP32-S3-LNA_IN Passive 
+C104-2 CAP_0603-2 Input   
+)
+(
+P3V3 
+U1-2 ESP32-S3-VDD3P3 Passive 
+U1-3 ESP32-S3-VDD3P3 Passive 
+L2-2 L_0402-2 Input   
+C16-1 CAP_0201-1 Input   
+)
+(
+CHIP_PU 
+U1-4 ESP32-S3-CHIP_PU Passive 
+C9-1 CAP_0603-1 Input   
+R5-1 Res_0201-1 Input   
+U13-29 AXP2101-PWROK Passive 
+)
+(
+GPIO0 
+U1-5 ESP32-S3-GPIO0 Passive 
+Key1-1 TS3425PA-B-A Passive 
+R4-1 Res_0201-1 Input   
+C42-1 CAP_0603-1 Input   
+)
+(
+GPIO1 
+U1-6 ESP32-S3-GPIO1 Passive 
+)
+(
+GPIO2 
+U1-7 ESP32-S3-GPIO2 Passive 
+)
+(
+GPIO3 
+U1-8 ESP32-S3-GPIO3 Passive 
+)
+(
+GPIO4 
+U1-9 ESP32-S3-GPIO4 Passive 
+)
+(
+GPIO5 
+U1-10 ESP32-S3-GPIO5 Passive 
+)
+(
+GPIO6 
+U1-11 ESP32-S3-GPIO6 Passive 
+)
+(
+GPIO7 
+U1-12 ESP32-S3-GPIO7 Passive 
+)
+(
+GPIO8 
+U1-13 ESP32-S3-GPIO8 Passive 
+U6-9 ES8311-DSDIN Passive 
+C55-1 CAP_0603-1 Input   
+)
+(
+GPIO9 
+U1-14 ESP32-S3-GPIO9 Passive 
+U6-6 ES8311-SCLK/DMIC_SCL Passive 
+C53-1 CAP_0603-1 Input   
+)
+(
+GPIO10 
+U1-15 ESP32-S3-GPIO10 Passive 
+U6-7 ES8311-ASDOUT Passive 
+)
+(
+GPIO11 
+U1-16 ESP32-S3-GPIO11 Passive 
+)
+(
+GPIO12 
+U1-17 ESP32-S3-GPIO12 Passive 
+)
+(
+GPIO13 
+U1-18 ESP32-S3-GPIO13 Passive 
+)
+(
+GPIO14 
+U1-19 ESP32-S3-GPIO14 Passive 
+U6-1 ES8311-CCLK Passive 
+C50-1 CAP_0603-1 Input   
+R15-1 Res_0603-1 Input   
+)
+(
+VCC3V3 
+U1-20 ESP32-S3-VDD3P3_RTC Passive 
+U1-55 ESP32-S3-VDDA Passive 
+U1-56 ESP32-S3-VDDA Passive 
+C1-2 CAP_0201-2 Input   
+C3-2 CAP_0201-2 Input   
+C2-1 CAP_0201-1 Input   
+C12-1 CAP_0201-1 Input   
+C13-1 CAP_0201-1 Input   
+C14-1 CAP_0201-1 Input   
+C15-1 CAP_0201-1 Input   
+L2-1 L_0402-1 Input   
+R4-2 Res_0201-2 Input   
+R5-2 Res_0201-2 Input   
+R8-1 Res_0603-1 Input   
+U3-16 TCA9554PWR-VCC Passive 
+R11-1 Res_0603-1 Input   
+C10-1 CAP_0603-1 Input   
+CN1-27 AXE534124-27 Passive 
+CN1-26 AXE534124-26 Passive 
+CN1-25 AXE534124-25 Passive 
+CN1-23 AXE534124-23 Passive 
+CN1-22 AXE534124-22 Passive 
+R12-2 Res_0603-2 Input   
+R13-1 Res_0603-1 Input   
+C43-2 CAP_0603-2 Input   
+C44-2 CAP_0603-2 Input   
+C45-1 CAP_0603-1 Input   
+C46-1 CAP_0603-1 Input   
+U5-2 QMI8658A_C3021082-SDX Passive 
+U5-3 QMI8658A_C3021082-SCX Passive 
+U5-5 QMI8658A_C3021082-VDDIO Passive 
+U5-8 QMI8658A_C3021082-VDD Passive 
+U5-12 QMI8658A_C3021082-CS Passive 
+C47-1 CAP_0603-1 Input   
+R15-2 Res_0603-2 Input   
+R16-2 Res_0603-2 Input   
+R18-2 Res_0603-2 Input   
+R19-2 Res_0603-2 Input   
+U7-6 NS4150B_C189961-VCC Passive 
+C74-2 CAP_0603-2 Input   
+C75-2 CAP_0603-2 Input   
+C76-2 CAP_0603-2 Input   
+U11-4 LMD3526B261-OFA03-VDD Passive 
+U12-4 LMD3526B261-OFA03-VDD Passive 
+C77-1 CAP_0603-1 Input   
+C78-1 CAP_0603-1 Input   
+C79-1 CAP_0603-1 Input   
+C80-1 CAP_0603-1 Input   
+U13-18 AXP2101-ALDO1 Passive 
+U13-21 AXP2101-FB1 Passive 
+C91-1 CAP_0603-1 Input   
+L8-1 L_0603-1 Input   
+C103-1 CAP_0603-1 Input   
+)
+(
+GPIO15 
+U1-21 ESP32-S3-XTAL_32K_P Passive 
+U6-19 ES8311-CDATA Passive 
+C51-1 CAP_0603-1 Input   
+R16-1 Res_0603-1 Input   
+)
+(
+GPIO16 
+U1-22 ESP32-S3-XTAL_32K_N Passive 
+U6-2 ES8311-MCLK Passive 
+C52-1 CAP_0603-1 Input   
+)
+(
+GPIO17 
+U1-23 ESP32-S3-GPIO17 Passive 
+)
+(
+GPIO18 
+U1-24 ESP32-S3-GPIO18 Passive 
+)
+(
+GPIO19 
+U1-25 ESP32-S3-GPIO19 Passive 
+R2-2 Res_0603-2 Input   
+)
+(
+GPIO20 
+U1-26 ESP32-S3-GPIO20 Passive 
+R3-2 Res_0603-2 Input   
+)
+(
+GPIO21 
+U1-27 ESP32-S3-GPIO21 Passive 
+)
+(
+VDD_SPI 
+U1-29 ESP32-S3-VDD_SPI Passive 
+U2-8 W25Q128JVSIQ-VCC Passive 
+C7-1 CAP_0201-1 Input   
+)
+(
+SPIHD 
+U1-30 ESP32-S3-SPIHD Passive 
+U2-7 W25Q128JVSIQ-IO3 Passive 
+C8-2 CAP_0201-2 Input   
+)
+(
+SPIWP 
+U1-31 ESP32-S3-SPIWP Passive 
+U2-3 W25Q128JVSIQ-IO2 Passive 
+)
+(
+SPICS0 
+U1-32 ESP32-S3-SPICS0 Passive 
+U2-1 W25Q128JVSIQ-CS# Passive 
+)
+(
+SPICLK 
+U1-33 ESP32-S3-SPICLK Passive 
+U2-6 W25Q128JVSIQ-CLK Passive 
+)
+(
+SPIQ 
+U1-34 ESP32-S3-SPIQ Passive 
+U2-2 W25Q128JVSIQ-DO Passive 
+)
+(
+SPID 
+U1-35 ESP32-S3-SPID Passive 
+U2-5 W25Q128JVSIQ-DI Passive 
+)
+(
+GPIO33 
+U1-38 ESP32-S3-GPIO33 Passive 
+)
+(
+GPIO34 
+U1-39 ESP32-S3-GPIO34 Passive 
+)
+(
+GPIO35 
+U1-40 ESP32-S3-GPIO35 Passive 
+)
+(
+GPIO36 
+U1-41 ESP32-S3-GPIO36 Passive 
+)
+(
+GPIO37 
+U1-42 ESP32-S3-GPIO37 Passive 
+)
+(
+GPIO38 
+U1-43 ESP32-S3-GPIO38 Passive 
+)
+(
+GPIO39 
+U1-44 ESP32-S3-MTCK Passive 
+)
+(
+GPIO40 
+U1-45 ESP32-S3-MTDO Passive 
+)
+(
+$1N894 
+U1-46 ESP32-S3-VDD3P3_CPU Passive 
+C4-2 CAP_0201-2 Input   
+)
+(
+GPIO41 
+U1-47 ESP32-S3-MTDI Passive 
+)
+(
+GPIO42 
+U1-48 ESP32-S3-MTMS Passive 
+)
+(
+U0TXD 
+U1-49 ESP32-S3-U0TXD Passive 
+)
+(
+U0RXD 
+U1-50 ESP32-S3-U0RXD Passive 
+)
+(
+GPIO45 
+U1-51 ESP32-S3-GPIO45 Passive 
+U6-8 ES8311-LRCK Passive 
+C54-1 CAP_0603-1 Input   
+)
+(
+GPIO46 
+U1-52 ESP32-S3-GPIO46 Passive 
+R23-1 Res_0603-1 Input   
+)
+(
+XTALN 
+U1-53 ESP32-S3-XTAL_N Passive 
+R1-1 Res_0201-1 Input   
+X1-1 XVHEELNANF-40MHZ-OSC1 Passive 
+C6-2 CAP_0201-2 Input   
+)
+(
+XTALP 
+U1-54 ESP32-S3-XTAL_P Passive 
+R1-2 Res_0201-2 Input   
+L1-1 L_0603-1 Input   
+)
+(
+GND 
+U1-57 ESP32-S3-EP Passive 
+C1-1 CAP_0201-1 Input   
+C3-1 CAP_0201-1 Input   
+C2-2 CAP_0201-2 Input   
+C4-1 CAP_0201-1 Input   
+X1-4 XVHEELNANF-40MHZ-GND Passive 
+X1-2 XVHEELNANF-40MHZ-GND Passive 
+C5-1 CAP_0201-1 Input   
+C6-1 CAP_0201-1 Input   
+C12-2 CAP_0201-2 Input   
+C13-2 CAP_0201-2 Input   
+C14-2 CAP_0201-2 Input   
+C15-2 CAP_0201-2 Input   
+C16-2 CAP_0201-2 Input   
+U2-4 W25Q128JVSIQ-GND Passive 
+C7-2 CAP_0201-2 Input   
+C8-1 CAP_0201-1 Input   
+Key1-3 TS3425PA-B-C Passive 
+C9-2 CAP_0603-2 Input   
+C42-2 CAP_0603-2 Input   
+Key3-3 TS3425PA-B-C Passive 
+Q1-2 BSS138LT1G-S Passive 
+U3-8 TCA9554PWR-GND Passive 
+C10-2 CAP_0603-2 Input   
+U4-5 PCF85063ATL/1,118-VSS Input   
+U4-11 PCF85063ATL/1,118-EP Input   
+C11-2 CAP_0603-2 Input   
+C17-2 CAP_0603-2 Input   
+CN1-38 AXE534124-38 Passive 
+CN1-37 AXE534124-37 Passive 
+CN1-36 AXE534124-36 Passive 
+CN1-35 AXE534124-35 Passive 
+CN1-33 AXE534124-33 Passive 
+CN1-21 AXE534124-21 Passive 
+CN1-17 AXE534124-17 Passive 
+CN1-16 AXE534124-16 Passive 
+CN1-15 AXE534124-15 Passive 
+CN1-14 AXE534124-14 Passive 
+CN1-13 AXE534124-13 Passive 
+CN1-12 AXE534124-12 Passive 
+CN1-2 AXE534124-2 Passive 
+R14-1 Res_0603-1 Input   
+C43-1 CAP_0603-1 Input   
+C44-1 CAP_0603-1 Input   
+C45-2 CAP_0603-2 Input   
+C46-2 CAP_0603-2 Input   
+TF1-10 M6014-12-GND Passive 
+TF1-11 M6014-12-GND Passive 
+TF1-12 M6014-12-GND Passive 
+TF1-13 M6014-12-GND Passive 
+L9-1 ACAG0301-24505500-T-GND Passive 
+L9-3 ACAG0301-24505500-T-GND Passive 
+U5-1 QMI8658A_C3021082-SDO/SA0 Passive 
+U5-6 QMI8658A_C3021082-GND Passive 
+U5-7 QMI8658A_C3021082-GND Passive 
+C47-2 CAP_0603-2 Input   
+R20-1 Res_0603-1 Input   
+U13-3 AXP2101-GND Passive 
+U13-41 AXP2101-EP Passive 
+C91-2 CAP_0603-2 Input   
+C92-2 CAP_0603-2 Input   
+C93-2 CAP_0603-2 Input   
+C94-2 CAP_0603-2 Input   
+C95-1 CAP_0603-1 Input   
+C96-1 CAP_0603-1 Input   
+C97-1 CAP_0603-1 Input   
+C98-1 CAP_0603-1 Input   
+C99-1 CAP_0603-1 Input   
+C100-1 CAP_0603-1 Input   
+R29-2 Res_0603-2 Input   
+C102-2 CAP_0603-2 Input   
+C103-2 CAP_0603-2 Input   
+D1-2 LTVS16H5.0ET5G-A Passive 
+R30-2 Res_0603-2 Input   
+R31-2 Res_0603-2 Input   
+USB1-B1 USB-TYPE-C-018-GND Passive 
+USB1-B12 USB-TYPE-C-018-GND Passive 
+USB1-A1 USB-TYPE-C-018-GND Passive 
+USB1-A12 USB-TYPE-C-018-GND Passive 
+)
+(
+$1N1191 
+X1-3 XVHEELNANF-40MHZ-OSC2 Passive 
+C5-2 CAP_0201-2 Input   
+L1-2 L_0603-2 Input   
+)
+(
+$1N1678 
+R2-1 Res_0603-1 Input   
+)
+(
+$1N1682 
+R3-1 Res_0603-1 Input   
+)
+(
+PWRON 
+R6-2 Res_0603-2 Input   
+U13-30 AXP2101-PWRON Passive 
+C93-1 CAP_0603-1 Input   
+)
+(
+$1N2188 
+R6-1 Res_0603-1 Input   
+R7-2 Res_0603-2 Input   
+Key3-1 TS3425PA-B-A Passive 
+)
+(
+$1N2193 
+R7-1 Res_0603-1 Input   
+Q1-1 BSS138LT1G-G Passive 
+)
+(
+SYS_OUT 
+R8-2 Res_0603-2 Input   
+Q1-3 BSS138LT1G-D Passive 
+)
+(
+$1N2614 
+U3-1 TCA9554PWR-AO Passive 
+R9-2 Res_0603-2 Input   
+R10-2 Res_0603-2 Input   
+)
+(
+$1N2626 
+U3-2 TCA9554PWR-A1 Passive 
+U3-3 TCA9554PWR-A2 Passive 
+R9-1 Res_0603-1 Input   
+)
+(
+EXIO0 
+U3-4 TCA9554PWR-PO Passive 
+)
+(
+EXIO1 
+U3-5 TCA9554PWR-P1 Passive 
+)
+(
+EXIO2 
+U3-6 TCA9554PWR-P2 Passive 
+)
+(
+EXIO3 
+U3-7 TCA9554PWR-P3 Passive 
+)
+(
+EXIO4 
+U3-9 TCA9554PWR-P4 Passive 
+)
+(
+EXIO5 
+U3-10 TCA9554PWR-P5 Passive 
+U13-38 AXP2101-IRQ Passive 
+R25-1 Res_0603-1 Input   
+)
+(
+EXIO6 
+U3-11 TCA9554PWR-P6 Passive 
+U5-4 QMI8658A_C3021082-INT1 Passive 
+)
+(
+EXIO7 
+U3-12 TCA9554PWR-P7 Passive 
+)
+(
+$1N2691 
+U3-13 TCA9554PWR-#INT Passive 
+R11-2 Res_0603-2 Input   
+)
+(
+ESP32_SCL 
+U3-14 TCA9554PWR-SCL Passive 
+U4-7 PCF85063ATL/1,118-SCL Input   
+U5-13 QMI8658A_C3021082-SCL Passive 
+U13-39 AXP2101-SCK Passive 
+)
+(
+ESP32_SDA 
+U3-15 TCA9554PWR-SDA Passive 
+U4-6 PCF85063ATL/1,118-SDA Input   
+U5-14 QMI8658A_C3021082-SDA Passive 
+U13-40 AXP2101-SDA Passive 
+)
+(
+$1N2608 
+R10-1 Res_0603-1 Input   
+)
+(
+$1N2972 
+U4-1 PCF85063ATL/1,118-OSCI Input   
+C11-1 CAP_0603-1 Input   
+)
+(
+$1N3060 
+U4-4 PCF85063ATL/1,118-INT# Input   
+)
+(
+$1N3027 
+U4-10 PCF85063ATL/1,118-VDD Input   
+)
+(
+LCD_TE 
+CN1-34 AXE534124-34 Passive 
+)
+(
+TP_SCL 
+CN1-31 AXE534124-31 Passive 
+)
+(
+TP_SDA 
+CN1-30 AXE534124-30 Passive 
+)
+(
+TP_INT 
+CN1-29 AXE534124-29 Passive 
+R12-1 Res_0603-1 Input   
+)
+(
+TP_RESET 
+CN1-28 AXE534124-28 Passive 
+)
+(
+DSI_PWR_EN 
+CN1-24 AXE534124-24 Passive 
+)
+(
+VPP 
+CN1-18 AXE534124-18 Passive 
+)
+(
+IM0 
+CN1-10 AXE534124-10 Passive 
+R14-2 Res_0603-2 Input   
+)
+(
+IM1 
+CN1-9 AXE534124-9 Passive 
+R13-2 Res_0603-2 Input   
+)
+(
+QSPI_SI3 
+CN1-8 AXE534124-8 Passive 
+)
+(
+QSPI_SI2 
+CN1-7 AXE534124-7 Passive 
+)
+(
+LCD_CS 
+CN1-6 AXE534124-6 Passive 
+)
+(
+QSPI_SCL 
+CN1-5 AXE534124-5 Passive 
+)
+(
+QSPI_SI1 
+CN1-4 AXE534124-4 Passive 
+)
+(
+QSPI_SIO0 
+CN1-3 AXE534124-3 Passive 
+)
+(
+LCD_RESET 
+CN1-1 AXE534124-1 Passive 
+)
+(
+$1N7644 
+L9-2 ACAG0301-24505500-T-INPUT Passive 
+C104-1 CAP_0603-1 Input   
+)
+(
+QMI_INT2 
+U5-9 QMI8658A_C3021082-INT2 Passive 
+)
+(
+$2N714 
+U6-3 ES8311-PVDD Passive 
+U6-4 ES8311-DVDD Passive 
+C48-1 CAP_0603-1 Input   
+C49-1 CAP_0603-1 Input   
+R18-1 Res_0603-1 Input   
+)
+(
+AGND 
+U6-5 ES8311-DGND Passive 
+U6-10 ES8311-AGND Passive 
+U6-21 ES8311-EP Passive 
+C48-2 CAP_0603-2 Input   
+C49-2 CAP_0603-2 Input   
+C50-2 CAP_0603-2 Input   
+C51-2 CAP_0603-2 Input   
+R17-2 Res_0603-2 Input   
+C52-2 CAP_0603-2 Input   
+C53-2 CAP_0603-2 Input   
+C54-2 CAP_0603-2 Input   
+C55-2 CAP_0603-2 Input   
+C56-1 CAP_0603-1 Input   
+C57-2 CAP_0603-2 Input   
+C59-1 CAP_0603-1 Input   
+C61-1 CAP_0603-1 Input   
+C62-1 CAP_0603-1 Input   
+C64-2 CAP_0603-2 Input   
+R20-2 Res_0603-2 Input   
+C66-2 CAP_0603-2 Input   
+C67-2 CAP_0603-2 Input   
+C70-2 CAP_0603-2 Input   
+C71-1 CAP_0603-1 Input   
+U7-7 NS4150B_C189961-GND Passive 
+R24-1 Res_0603-1 Input   
+C73-2 CAP_0603-2 Input   
+C74-1 CAP_0603-1 Input   
+C75-1 CAP_0603-1 Input   
+C76-1 CAP_0603-1 Input   
+U11-2 LMD3526B261-OFA03-L/R Passive 
+U11-5 LMD3526B261-OFA03-GND Passive 
+U12-2 LMD3526B261-OFA03-L/R Passive 
+U12-5 LMD3526B261-OFA03-GND Passive 
+C77-2 CAP_0603-2 Input   
+C78-2 CAP_0603-2 Input   
+C79-2 CAP_0603-2 Input   
+C80-2 CAP_0603-2 Input   
+C81-2 CAP_0603-2 Input   
+C82-2 CAP_0603-2 Input   
+C84-2 CAP_0603-2 Input   
+C85-1 CAP_0603-1 Input   
+C89-2 CAP_0603-2 Input   
+C90-2 CAP_0603-2 Input   
+)
+(
+$2N2283 
+U6-11 ES8311-AVDD Passive 
+C56-2 CAP_0603-2 Input   
+R19-1 Res_0603-1 Input   
+)
+(
+$2N2039 
+U6-12 ES8311-OUTP Passive 
+C57-1 CAP_0603-1 Input   
+C58-1 CAP_0603-1 Input   
+)
+(
+$2N2034 
+U6-13 ES8311-OUTN Passive 
+C59-2 CAP_0603-2 Input   
+C60-2 CAP_0603-2 Input   
+)
+(
+DACVREF 
+U6-14 ES8311-DACVREF Passive 
+C62-2 CAP_0603-2 Input   
+)
+(
+ADCVREF 
+U6-15 ES8311-ADCVREF Passive 
+C61-2 CAP_0603-2 Input   
+)
+(
+$2N1688 
+U6-16 ES8311-VMID Passive 
+C64-1 CAP_0603-1 Input   
+)
+(
+$2N1684 
+U6-17 ES8311-MIC1N Passive 
+C63-1 CAP_0603-1 Input   
+)
+(
+$2N2445 
+U6-18 ES8311-MIC1P/DMIC_SDA Passive 
+C65-1 CAP_0603-1 Input   
+)
+(
+CODEC_CE 
+U6-20 ES8311-CE Passive 
+R17-1 Res_0603-1 Input   
+)
+(
+OUTP 
+C58-2 CAP_0603-2 Input   
+C67-1 CAP_0603-1 Input   
+C68-1 CAP_0603-1 Input   
+)
+(
+OUTN 
+C60-1 CAP_0603-1 Input   
+C66-1 CAP_0603-1 Input   
+C69-1 CAP_0603-1 Input   
+)
+(
+MIC_N 
+C63-2 CAP_0603-2 Input   
+C87-2 CAP_0603-2 Input   
+C88-2 CAP_0603-2 Input   
+C89-1 CAP_0603-1 Input   
+C90-1 CAP_0603-1 Input   
+)
+(
+MIC_P 
+C65-2 CAP_0603-2 Input   
+C83-2 CAP_0603-2 Input   
+C87-1 CAP_0603-1 Input   
+C88-1 CAP_0603-1 Input   
+)
+(
+$2N2937 
+C68-2 CAP_0603-2 Input   
+R21-1 Res_0603-1 Input   
+)
+(
+$2N2925 
+C69-2 CAP_0603-2 Input   
+R22-1 Res_0603-1 Input   
+)
+(
+PA_INT+ 
+R21-2 Res_0603-2 Input   
+U7-3 NS4150B_C189961-INP Passive 
+)
+(
+PA_INT- 
+R22-2 Res_0603-2 Input   
+U7-4 NS4150B_C189961-INN Passive 
+)
+(
+$2N3137 
+C70-1 CAP_0603-1 Input   
+C72-1 CAP_0603-1 Input   
+L3-2 L_0603-2 Input   
+)
+(
+$2N3144 
+C71-2 CAP_0603-2 Input   
+C72-2 CAP_0603-2 Input   
+L4-2 L_0603-2 Input   
+)
+(
+PA_OUTL+ 
+L3-1 L_0603-1 Input   
+U7-8 NS4150B_C189961-VoP Passive 
+)
+(
+PA_OUTL- 
+L4-1 L_0603-1 Input   
+U7-5 NS4150B_C189961-VON Passive 
+)
+(
+$2N3605 
+U7-1 NS4150B_C189961-CTRL Passive 
+R23-2 Res_0603-2 Input   
+R24-2 Res_0603-2 Input   
+)
+(
+$2N3611 
+U7-2 NS4150B_C189961-Bypass Passive 
+C73-1 CAP_0603-1 Input   
+)
+(
+$2N4893 
+U11-1 LMD3526B261-OFA03-DATA Passive 
+C81-1 CAP_0603-1 Input   
+L5-1 L_0603-1 Input   
+)
+(
+$2N4883 
+U11-3 LMD3526B261-OFA03-CLK Passive 
+)
+(
+$2N4898 
+U12-1 LMD3526B261-OFA03-DATA Passive 
+C84-1 CAP_0603-1 Input   
+L6-1 L_0603-1 Input   
+)
+(
+$2N4888 
+U12-3 LMD3526B261-OFA03-CLK Passive 
+)
+(
+$2N4925 
+C82-1 CAP_0603-1 Input   
+C83-1 CAP_0603-1 Input   
+L5-2 L_0603-2 Input   
+)
+(
+$2N4953 
+C85-2 CAP_0603-2 Input   
+C86-1 CAP_0603-1 Input   
+L6-2 L_0603-2 Input   
+)
+(
+CHGLED 
+U13-1 AXP2101-CHGLED Passive 
+)
+(
+VREF 
+U13-2 AXP2101-VREF Passive 
+C94-1 CAP_0603-1 Input   
+)
+(
+ALDO4 
+U13-15 AXP2101-ALDO4 Passive 
+)
+(
+ALDO3 
+U13-16 AXP2101-ALDO3 Passive 
+)
+(
+PS 
+U13-17 AXP2101-ALDOIN Passive 
+U13-23 AXP2101-VIN1 Passive 
+U13-34 AXP2101-VSYS Passive 
+C92-1 CAP_0603-1 Input   
+R26-2 Res_0603-2 Input   
+R27-1 Res_0603-1 Input   
+C102-1 CAP_0603-1 Input   
+)
+(
+ALDO2 
+U13-19 AXP2101-ALDO2 Passive 
+)
+(
+LX1 
+U13-22 AXP2101-LX1 Passive 
+L8-2 L_0603-2 Input   
+)
+(
+VBAT2 
+U13-27 AXP2101-VBACKUP Passive 
+)
+(
+VCC_RTC 
+U13-28 AXP2101-VRTC Passive 
+R25-2 Res_0603-2 Input   
+)
+(
+TS 
+U13-31 AXP2101-TS Passive 
+R29-1 Res_0603-1 Input   
+)
+(
+$2N8462 
+U13-32 AXP2101-GPIO1/FB5/RTC/LDO2 Passive 
+R28-1 Res_0603-1 Input   
+)
+(
+VBAT1 
+U13-33 AXP2101-BAT Passive 
+C97-2 CAP_0603-2 Input   
+)
+(
+$2N7115 
+U13-35 AXP2101-SW Passive 
+L7-1 L_0603-1 Input   
+)
+(
+VMID 
+U13-36 AXP2101-VMID Passive 
+C96-2 CAP_0603-2 Input   
+R26-1 Res_0603-1 Input   
+)
+(
+VBUS 
+U13-37 AXP2101-VBUS Passive 
+C95-2 CAP_0603-2 Input   
+)
+(
+VSYS 
+L7-2 L_0603-2 Input   
+C98-2 CAP_0603-2 Input   
+C99-2 CAP_0603-2 Input   
+C100-2 CAP_0603-2 Input   
+R27-2 Res_0603-2 Input   
+R28-2 Res_0603-2 Input   
+)
+(
+$2N9330 
+D1-1 LTVS16H5.0ET5G-C Passive 
+USB1-B4 USB-TYPE-C-018-VBUS Passive 
+)
+(
+$2N9326 
+R30-1 Res_0603-1 Input   
+USB1-B5 USB-TYPE-C-018-CC2 Passive 
+)
+(
+A5 
+R31-1 Res_0603-1 Input   
+USB1-A5 USB-TYPE-C-018-CC1 Passive 
+)
+(
+$2N9386 
+USB1-B6 USB-TYPE-C-018-DP2 Passive 
+USB1-A6 USB-TYPE-C-018-DP1 Passive 
+R32-1 Res_0603-1 Input   
+)
+(
+$2N9379 
+USB1-B7 USB-TYPE-C-018-DN2 Passive 
+USB1-A7 USB-TYPE-C-018-DN1 Passive 
+R33-2 Res_0603-2 Input   
+)
+(
+USBP 
+R32-2 Res_0603-2 Input   
+)
+(
+USBN 
+R33-1 Res_0603-1 Input   
+)
