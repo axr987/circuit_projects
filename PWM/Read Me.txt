@@ -1,0 +1,34 @@
+# PWM Modulation and Demodulation
+
+This project implements a mixed-signal signal path that converts an analog input into a PWM waveform, transmits it through an optocoupler link, and reconstructs the original signal at the output. The system uses a triangle-wave comparator for PWM generation and a ramp/sample-and-hold receiver for signal recovery.
+
+## Overview
+
+The transmitter compares an analog input against a triangle reference to generate PWM. The receiver converts pulse width back into amplitude using a ramp, sample-and-hold stage, and output filtering, producing a reconstructed analog waveform.
+
+## Constraints
+
+- Input range: DC to 200 Hz sine wave.
+- Input amplitude: 0 to 10 Vpp.
+- Supply: single +15 VDC rail.
+- Output load: 1 kΩ.
+- Transmission path: optocoupler-coupled digital link.
+- Sampling frequency: adjustable over at least one decade.
+- All circuit signals must remain between the supply rails.
+
+## Implementation
+
+- PWM transmitter with analog input, triangle reference, and comparator stage.
+- Optocoupler isolation/link stage between transmitter and receiver.
+- Receiver using ramp generation, sample-and-hold behavior, and filtered analog output reconstruction.
+
+## Results
+
+- 0 VDC input → 288 mV output.
+- 1 VDC input → 2.98 V output.
+- 5 VDC input → 4.96 V output.
+- Reconstructed waveform THD: 11.7%.
+
+## Notes
+
+The output phase is not required to match the input phase, but the reconstructed amplitude should track the input closely. A ramp plus sample-and-hold receiver was used because it produces a staircase waveform that is easier to filter and gives better reconstruction than simple RC averaging.
